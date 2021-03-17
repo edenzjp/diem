@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["move_core_types"] = [{"text":"impl&lt;'d&gt; DeserializeSeed&lt;'d&gt; for &amp;MoveTypeLayout","synthetic":false,"types":[]},{"text":"impl&lt;'d&gt; DeserializeSeed&lt;'d&gt; for &amp;MoveStructLayout","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
